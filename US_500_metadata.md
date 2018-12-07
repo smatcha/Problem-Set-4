@@ -23,4 +23,4 @@ zip | zip code
 phone1 | primary contact number of citizen
 phone2 | secondary contact number of citizen
 email | e-mail address of citizen
-web | web address of company that employs the citien
+web | web address of company that employs the citizen
